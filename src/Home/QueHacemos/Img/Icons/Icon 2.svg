@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207.777" height="207.777" viewBox="0 0 207.777 207.777">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#Subtraction_13);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3bbae0"/>
+      <stop offset="1" stop-color="#008cb5"/>
+    </linearGradient>
+    <filter id="Subtraction_13" x="0" y="0" width="207.777" height="207.777" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_39" data-name="Group 39" transform="translate(-867 -2740.611)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 867, 2740.61)">
+      <path id="Subtraction_13-2" data-name="Subtraction 13" class="cls-1" d="M2232.1,14.1h.193a67,67,0,0,1,67,67V81.3a67,67,0,0,1-67,67h-.193a67,67,0,0,1-67-67V81.1A67,67,0,0,1,2232.1,14.1Z" transform="translate(-1531.93 1621.88) rotate(-45)"/>
+    </g>
+    <path id="Rectangle_104" data-name="Rectangle 104" class="cls-2" d="M21,5A16,16,0,0,0,5,21V54A16,16,0,0,0,21,70H42A30.97,30.97,0,0,0,73,39V21A16,16,0,0,0,57,5H21m0-5H57A21,21,0,0,1,78,21V39A36,36,0,0,1,42,75H21A21,21,0,0,1,0,54V21A21,21,0,0,1,21,0Z" transform="translate(931.889 2803)"/>
+    <path id="Path_9" data-name="Path 9" class="cls-2" d="M-1393.5,2349.174h-5v-23.511h26.2v5h-21.2Z" transform="translate(2377.889 526)"/>
+    <path id="Union_1" data-name="Union 1" class="cls-2" d="M2158.5,62.819h0l2.964-7.554.112-.194a2.963,2.963,0,0,0,.323-.822l.044-.195.07-.187v0l-.04-.239V6a3,3,0,0,0-3-3h-.945a3,3,0,0,0-3,3V53.624l-.041.239v0l.07.188.045.2a2.963,2.963,0,0,0,.322.822l.112.194.082.209,2.881,7.344h0m0,3a2.955,2.955,0,0,1-2.793-1.9l-2.881-7.344a5.955,5.955,0,0,1-.649-1.655,2.97,2.97,0,0,1-.15-1.544V6a6,6,0,0,1,6-6h.945a6,6,0,0,1,6,6V53.374a2.973,2.973,0,0,1-.15,1.541,5.96,5.96,0,0,1-.649,1.655l-2.882,7.345A2.953,2.953,0,0,1,2158.5,65.819Z" transform="translate(-477.136 1236.389) rotate(47)"/>
+  </g>
+</svg>

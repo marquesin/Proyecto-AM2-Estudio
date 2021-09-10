@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="169.201" height="90" viewBox="0 0 169.201 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a1818;
+        font-size: 63px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 21px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #0a589d;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-5 {
+        fill: #9f9f9f;
+        font-size: 28px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3cdaff"/>
+      <stop offset="1" stop-color="#00408b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-353.799 -14)">
+    <text id="a" class="cls-1" transform="translate(426 75)"><tspan x="0" y="0">a</tspan></text>
+    <text id="m" class="cls-1" transform="translate(456 75)"><tspan x="0" y="0">m</tspan></text>
+    <text id="_2" data-name="2" class="cls-2" transform="translate(507 49)"><tspan x="0" y="0">2</tspan></text>
+    <path id="Subtraction_3" data-name="Subtraction 3" class="cls-3" d="M39.6,73.4a13.908,13.908,0,0,1-9.9-4.1L9.9,49.5a14,14,0,0,1,0-19.8L29.7,9.9a14,14,0,0,1,19.8,0L69.3,29.7a14,14,0,0,1,0,19.8L49.5,69.3A13.908,13.908,0,0,1,39.6,73.4Zm.444-55.806a7.95,7.95,0,0,0-5.657,2.343L20.935,33.385a8,8,0,0,0,0,11.314l13.45,13.451a8,8,0,0,0,11.314,0L59.149,44.7a8.01,8.01,0,0,0,0-11.314L45.7,19.934A7.947,7.947,0,0,0,40.042,17.591Z" transform="translate(348 27)"/>
+    <path id="Intersection_2" data-name="Intersection 2" class="cls-3" d="M28.142,62.539,21.87,56.268l3.6-3.6,5.85,5.85a4,4,0,0,0,5.657,0l5.694-5.694,3.25,3.25-6.467,6.467a8,8,0,0,1-11.313,0Z" transform="translate(421.592 125.373) rotate(180)"/>
+    <text id="_2-2" data-name="2" class="cls-4" transform="translate(508 48)"><tspan x="0" y="0">2</tspan></text>
+    <text id="studio" class="cls-5" transform="translate(432 97)"><tspan x="0" y="0">studio</tspan></text>
+  </g>
+</svg>

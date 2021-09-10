@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207.777" height="207.777" viewBox="0 0 207.777 207.777">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#Subtraction_15);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3bbae0"/>
+      <stop offset="1" stop-color="#008cb5"/>
+    </linearGradient>
+    <filter id="Subtraction_15" x="0" y="0" width="207.777" height="207.777" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_40" data-name="Group 40" transform="translate(-1343 -2740.611)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 1343, 2740.61)">
+      <path id="Subtraction_15-2" data-name="Subtraction 15" class="cls-1" d="M2232.1,14.1h.193a67,67,0,0,1,67,67V81.3a67,67,0,0,1-67,67h-.193a67,67,0,0,1-67-67V81.1A67,67,0,0,1,2232.1,14.1Z" transform="translate(-1531.93 1621.88) rotate(-45)"/>
+    </g>
+    <path id="Rectangle_102" data-name="Rectangle 102" class="cls-2" d="M13,5a8.009,8.009,0,0,0-8,8v5a8.009,8.009,0,0,0,8,8H41a8.009,8.009,0,0,0,8-8V13a8.009,8.009,0,0,0-8-8H13m0-5H41A13,13,0,0,1,54,13v5A13,13,0,0,1,41,31H13A13,13,0,0,1,0,18V13A13,13,0,0,1,13,0Z" transform="translate(1421.889 2846)"/>
+    <path id="Line_8" data-name="Line 8" class="cls-2" d="M11,2.5H0A2.5,2.5,0,0,1-2.5,0,2.5,2.5,0,0,1,0-2.5H11A2.5,2.5,0,0,1,13.5,0,2.5,2.5,0,0,1,11,2.5Z" transform="translate(1462.389 2829.5)"/>
+    <path id="Subtraction_17" data-name="Subtraction 17" class="cls-2" d="M2166.183,50.843l-3.551-.666A17.507,17.507,0,0,1,2148.5,33V15A17.5,17.5,0,0,1,2166-2.5h48A17.5,17.5,0,0,1,2231.5,15V33a17.505,17.505,0,0,1-14.134,17.175l-3.4.664.445-3.439a10.944,10.944,0,0,0,.091-1.4V41A10.5,10.5,0,0,0,2204,30.5h-28A10.5,10.5,0,0,0,2165.5,41v5a10.7,10.7,0,0,0,.086,1.35ZM2166,2.5A12.5,12.5,0,0,0,2153.5,15V33a12.5,12.5,0,0,0,7,11.226V41A15.5,15.5,0,0,1,2176,25.5h28A15.5,15.5,0,0,1,2219.5,41v3.226a12.5,12.5,0,0,0,7-11.226V15A12.5,12.5,0,0,0,2214,2.5Z" transform="translate(-741.111 2818)"/>
+    <path id="Subtraction_19" data-name="Subtraction 19" class="cls-2" d="M2212.089,23.5h-46.152l-.458-1.919A17.587,17.587,0,0,1,2165,17.5,17.5,17.5,0,0,1,2182.5,0h15A17.5,17.5,0,0,1,2215,17.5a17.594,17.594,0,0,1-.479,4.08l-.02.082-.025.081-.547,1.756Zm-42.05-5h39.921q.04-.5.04-1A12.5,12.5,0,0,0,2197.5,5h-15A12.5,12.5,0,0,0,2170,17.5Q2170,18,2170.039,18.5Z" transform="translate(-741.111 2797)"/>
+  </g>
+</svg>

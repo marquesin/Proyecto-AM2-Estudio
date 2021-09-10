@@ -1,0 +1,71 @@
+.containerComoTrabajamos{
+    padding: 0 5% 0 5%;
+    width: 90%;
+    margin-top: 6%;
+}
+.titleDeSectiones{
+    text-align: left;
+    font-size: 37px;
+    font-weight: 500;
+    color: #1D1D1D;
+}
+.titleDeSectionesColor{
+    color: #1D8CC4;
+}
+.containerCuadriculaComoTrabajamos{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.title-item-CT{
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 23px;
+}
+.p-item-CT{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 23px;
+}
+.item-CT1,.item-CT2,.item-CT3,.item-CT4{
+    background-size: cover;
+    width: 360px;
+    height: 610px;
+}
+.item-CT1{
+    background-image: url(./Img/Group\ 34.png);
+
+}
+.item-CT2{
+    background-image: url(./Img/Group\ 35.png);
+    background-size: cover;
+}
+.item-CT3{
+    background-image: url(./Img/Group\ 36.png);
+    background-size: cover;
+
+}
+.item-CT4{
+    background-image: url(./Img/Group\ 37.png);
+    background-size: cover;
+
+}
+.text-CT{
+    width: 330px;
+    height: 330px;
+    text-align: left;
+    padding: 8% 8% 0 8%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.text-CT-Botton{
+    width: 330px;
+    height: 330px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 92% 8% 0 8%;
+}

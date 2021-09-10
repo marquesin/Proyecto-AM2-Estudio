@@ -1,0 +1,73 @@
+.containerBannerHome{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.containerTitles{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    inherits: text-align;
+    text-align: left;
+   margin-top: 5%;
+   
+}
+
+.containerFotoHome{
+    width: 60%;
+    width: 790px;
+    height: 790px;
+    /* border: solid #1D8CC4 3px; */
+    margin-top: 1%;
+}
+.titleHome{
+    color: #121212;
+    font-size: 105px;
+    font-weight: 700;
+    margin-top: 15%;
+}
+.punto1BannerHome{
+    color: #35C9F2;
+}
+.punto2BannerHome{
+    color: #1D8CC4;
+}
+.punto3BannerHome{
+    color: #074992;
+}
+.containerButtonHome{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttonHome{
+    border: solid #1D8CC4 2px;
+    width: 285px;
+    height: 79px;
+    border-radius: 41px;
+    font-size: 22px;
+    font-weight: 500;
+    color: #121212;
+    background-color: transparent;
+}
+.containerPBanner{
+    width: 100%;
+    height: 435px;
+    background: transparent linear-gradient(118deg, #167DA3 0%, #085977 100%) 0% 0% no-repeat padding-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8%;
+}
+.pBanner{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 22px;
+    text-align: left;
+    width: 70%;
+}
+
